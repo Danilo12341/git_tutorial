@@ -1,0 +1,42 @@
+Git
+- é um versionador de código.: tem como função
+de organizar, gerenciar as várias versões de um soft
+ware, foi criado por Linus Torvalds após tentar utilizar
+várias ferramentas de versionamento.
+
+Github:Servidor nas nuvens que armazenada os códigos
+e possui interface amigável.
+
+Novos Projetos:
+1) Criar no repositório do github
+2) Clonar : git clone "link do git"
+3) Adcionar os arquivos
+4) git add . //para adicionar no estágio de estages.
+      // git status - verificar quais arquivos estão no estages 
+      // git reset - limpa o estages.
+5)git commit -m "comentário"// adicionar no repositório local.
+5)git push
+ou com comando git init.
+
+
+
+
+
+
+Para trabalhar em equipe
+
+PULL Request : pedido para incorporação do seu código
+na árvode de código.
+
+Dentros do git, pode existir vários ramos (branch), onde
+o ramo principal é padrão master.
+
+Raramente em um projetos com vários programadores, fazemos os
+commit e push diretamentes no brain
+
+git checkout -b nomedabranch // cria uma nova branch
+
+CLONE
+PUSH
+PULL RESQUEST
+MERGE
